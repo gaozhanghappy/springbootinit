@@ -1,2 +1,4 @@
 FENGJING: 中山陵
+server:
+  port: 8000
 
