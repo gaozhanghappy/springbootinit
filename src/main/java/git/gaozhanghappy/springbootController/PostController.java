@@ -20,7 +20,7 @@ public class PostController {
     @GetMapping("/")
     public String getControler(){
         System.out.println("-----------------");
-        return "success";
+        return "success，你好";
     }
     @PostMapping("/post")
     @ResponseBody
